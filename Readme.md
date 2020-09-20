@@ -38,6 +38,9 @@ This model used  **Keras** And **TensorFlow** for the implementation
 
 2.Tensorflow :is a Python library for fast numerical computing created and released by Google.It is a foundation library that can be used to create Deep Learning models directly or by using wrapper libraries that simplify the process built on top of TensorFlow *(Keras)*
 
+#### Procces of the model Implementation in Jupyter Notebook:
+
+
 
 
 #### Build Pipeline
