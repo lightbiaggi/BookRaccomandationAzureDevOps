@@ -14,9 +14,19 @@ You can find bellow more details :
 
 ### Model Implementation using Jupyter Notebook :
 
-Skip above step if already done.
+#### Introduction :
 
-Once the template is imported for personal Azure DevOps account using DevOps demo generator, you need to follow below steps to get the pipeline running:
+A recommendation system seeks to model a user Behavior regarding a Product , which help to understand how user interact with items.
+
+There are Two Primary type of recommendation system :
+
+##### Collaborative Filtering System:
+
+This system builds a model of the user based on past choices, activities, and preferences. 
+
+##### Content-Based Filtering System:
+
+This system builds an understanding of similarity between items. It recommends items that are similar to each other in terms of properties.
 
 ### Update Pipeline Config:
 
