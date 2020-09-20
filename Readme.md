@@ -44,7 +44,7 @@ This model used  **Keras** And **TensorFlow** for the implementation
 
 More information are included in the notebook **https://github.com/lightbiaggi/BookRaccomandationAzureDevOps/blob/master/model/BOOKS.ipynb**
 
-#### Procces of the model integration with Azure DevOps:
+#### Procces of the model integration and deployment with Azure DevOps:
 
 To create this process we have followed the following steps
 
@@ -59,6 +59,5 @@ To create this process we have followed the following steps
 ![CD](cp.png "CD")
 
 
-
-
+# Next step create the end-point and build a Book recommender website to use this model 
 
