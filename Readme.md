@@ -50,6 +50,10 @@ More information are included in the notebook **https://github.com/lightbiaggi/B
 
 ![CI](ci.png "CI")
 
+**1. CD or continuous development phase :**
+
+![CD](cp.png "CD")
+
 
 
 
