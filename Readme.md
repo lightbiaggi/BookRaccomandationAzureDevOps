@@ -26,17 +26,17 @@ There are 3 type of recommendation system :
 
 3. Hybrid Approach : This approach combines the collaborative and content-based approaches to build  more generalized systems. 
 
-### Approach used in this Project:
+#### Approach used in this Project:
 
 This Project used a technique called embedding *(special kind of neural network layer)* to build an understanding of the interaction between users and book **which is an hybrid approach**
 
-### Library used in this Project:
+#### Library used in this Project:
 
 This model used  **Keras** And **TensorFlow** for the implementation 
 
 1.Keras: an open-source neural-network library written in Python. It is capable of running on top of TensorFlow https://keras.io/
 
-2.Tensorflow :is a Python library for fast numerical computing created and released by Google.It is a foundation library that can be used to create Deep Learning models directly or by using wrapper libraries that simplify the process built on top of TensorFlow **(Keras)**
+2.Tensorflow :is a Python library for fast numerical computing created and released by Google.It is a foundation library that can be used to create Deep Learning models directly or by using wrapper libraries that simplify the process built on top of TensorFlow *(Keras)*
 
 
 
