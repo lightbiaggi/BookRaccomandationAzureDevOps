@@ -1,11 +1,12 @@
-### Author: Praneet Singh Solanki
+### Author: Leo Biaggi , Hanane Ouhammouch
 
-# DevOps For AI
-This template contains code and pipeline definition for a machine learning project demonstrating how to automate the end to end ML/AI project. The build pipelines include DevOps tasks for data sanity test, unit test, model training on different compute targets, model version management, model evaluation/model selection, model deployment as realtime web service, staged deployment to QA/prod, integration testing and functional testing.
+# Book recommendation with AzureDevOps CICD integration
+
+The Object of this Project is to build and deploy a recommendation System to predict the rating a user will give to a book based on his old preferences. 
 
 ## Prerequisite
-- Active Azure subscription
-- Minimum contributor access to Azure subscription
+- Anaconda - Jupyter Notebook for the creation of the Model
+- Azure DevOps for the deployment of the Model
 
 ## Getting Started:
 
