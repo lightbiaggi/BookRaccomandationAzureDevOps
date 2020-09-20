@@ -8,9 +8,11 @@ The Object of this Project is to build and deploy a recommendation System to pre
 - Anaconda - Jupyter Notebook for the creation of the Model
 - Azure DevOps for the deployment of the Model
 
-## Getting Started:
+## From the creation to the deployment  :
 
-### Import the DevOps for AI solution template from Azure DevOps Demo Generator: [Click here](https://azuredevopsdemogenerator.azurewebsites.net/?name=azure%20machine%20learning)
+You can find bellow more details :
+
+### Model Implementation using Jupyter Notebook :
 
 Skip above step if already done.
 
