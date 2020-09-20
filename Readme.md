@@ -46,7 +46,7 @@ More information are included in the notebook **https://github.com/lightbiaggi/B
 
 #### Procces of the model integration with Azure DevOps:
 
-1. CI or continuous integration phase :
+**1. CI or continuous integration phase :**
 
 
 
