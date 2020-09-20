@@ -14,21 +14,21 @@ You can find bellow more details :
 
 ### Model Implementation using Jupyter Notebook :
 
-#### Introduction :
+#### Introduction of recommendation system :
 
 A recommendation system seeks to model a user Behavior regarding a Product , which help to understand how user interact with items.
 
-There are Two Primary type of recommendation system :
+There are 3 type of recommendation system :
 
-1. Collaborative Filtering System:
+1. Collaborative Filtering System:This system builds a model of the user based on past choices, activities, and preferences. 
 
-This system builds a model of the user based on past choices, activities, and preferences. 
+2. Content-Based Filtering System:This system builds an understanding of similarity between items. It recommends items that are similar to each other in terms of properties.
 
-2. Content-Based Filtering System:
+3. Hybrid Approach : This approach combines the collaborative and content-based approaches to build  more generalized systems. 
 
-This system builds an understanding of similarity between items. It recommends items that are similar to each other in terms of properties.
+### Approach used in this Project:
 
-### Update Pipeline Config:
+nfig:
 
 #### Build Pipeline
 1. Go to the **Pipelines -> Builds** on the newly created project and click **Edit** on top right
