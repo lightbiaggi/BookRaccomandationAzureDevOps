@@ -20,11 +20,11 @@ A recommendation system seeks to model a user Behavior regarding a Product , whi
 
 There are Two Primary type of recommendation system :
 
-##### Collaborative Filtering System:
+1. Collaborative Filtering System:
 
 This system builds a model of the user based on past choices, activities, and preferences. 
 
-##### Content-Based Filtering System:
+2. Content-Based Filtering System:
 
 This system builds an understanding of similarity between items. It recommends items that are similar to each other in terms of properties.
 
